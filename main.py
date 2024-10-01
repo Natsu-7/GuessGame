@@ -3,7 +3,6 @@
 import random
 
 target_number = random.randint(1, 100)
-print(target_number)
 
 count = 5      # the number of tries the user has
 
