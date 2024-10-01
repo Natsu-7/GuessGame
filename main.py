@@ -20,3 +20,4 @@ while count != 0:
         break
 else:
     print(" YOU LOST")
+print("Thank you for Playing the game")
