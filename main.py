@@ -19,5 +19,6 @@ while count != 0:
         print('Congratulations !!!!! YOU WON ! YOU GUESSED THE CORRECT ANSWER')
         break
 else:
+    print("The target number was", target_number)
     print(" YOU LOST")
 print("Thank you for Playing the game")
